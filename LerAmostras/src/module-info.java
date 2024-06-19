@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author laboratorio
- *
- */
-module LerAmostras {
-}
